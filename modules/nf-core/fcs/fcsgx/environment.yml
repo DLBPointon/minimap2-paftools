@@ -3,3 +3,5 @@ channels:
   - conda-forge
   - bioconda
   - defaults
+dependencies:
+  - bioconda::ncbi-fcs-gx_fcs_fcsgx=0.5.4
